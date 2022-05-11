@@ -7,6 +7,8 @@ public class ItemCollect : MonoBehaviour
 {
     private int cherries = 0;
     [SerializeField] private Text score;
+    [SerializeField] private AudioSource coll_sound;
+
     public void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.gameObject.CompareTag("Apple"))
@@ -14,6 +16,7 @@ public class ItemCollect : MonoBehaviour
             Destroy(collision.gameObject);
             cherries++;
             score.text = "Score: " + cherries;
+            coll_sound.Play();
 
             if(cherries == 3)
             {

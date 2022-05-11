@@ -7,6 +7,7 @@ public class death_logic : MonoBehaviour
 {
     private Rigidbody2D rb;
     private Animator anim;
+    [SerializeField] private AudioSource death_sound;
     // Start is called before the first frame update
     private void Start()
     {
@@ -18,6 +19,7 @@ public class death_logic : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Trap"))
         {
+            death_sound.Play();
             Die();
         }
     }
