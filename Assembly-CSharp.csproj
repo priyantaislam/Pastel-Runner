@@ -60,6 +60,8 @@
     <Compile Include="Assets/Scripts/PlayerMovement.cs" />
     <Compile Include="Assets/Scripts/ItemCollect.cs" />
     <Compile Include="Assets/Scripts/death_logic.cs" />
+    <Compile Include="Assets/Scripts/waypoint_follow.cs" />
+    <Compile Include="Assets/Scripts/sticky_platform.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
