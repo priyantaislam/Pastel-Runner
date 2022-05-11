@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{60337F88-8097-6690-FFCB-871EA43102DE}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/sticky_platform.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/rotate.cs">
     <Files>
-      <File FileName="Assets/Scripts/waypoint_follow.cs" Line="24" Column="133" />
-      <File FileName="Assets/Scripts/sticky_platform.cs" Line="7" Column="4" />
+      <File FileName="Assets/Scripts/waypoint_follow.cs" Line="27" Column="5" />
+      <File FileName="Assets/Scripts/sticky_platform.cs" Line="25" Column="1" />
+      <File FileName="Assets/Scripts/rotate.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +11,7 @@
           <Node name="Pastel Runner" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="sticky_platform.cs" selected="True" />
+                <Node name="rotate.cs" selected="True" />
               </Node>
             </Node>
           </Node>
