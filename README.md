@@ -1,6 +1,16 @@
 # Pastel-Runner
 A 2D platformer game made in Unity. I made this small Mario style 2D platformer to learn the Unity. Here are some screenshots:<br />
 
+Some features implemented in the game:
+-Player movement
+-Collectibles and score system
+-Traps and death logic
+-Respawn upon death
+-Audio FX and music
+-Animation
+-Start and end screens
+-Collision and groundchecking
+
 
 
 ![Screen Shot 2022-05-13 at 6 42 40 am](https://user-images.githubusercontent.com/31027335/168165082-5dce7fb2-c1cb-4bc7-9c9b-091913387fe5.png)<br />
