@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+
 public class ItemCollect : MonoBehaviour
 {
     private int cherries = 0;
@@ -18,10 +19,7 @@ public class ItemCollect : MonoBehaviour
             score.text = "Score: " + cherries;
             coll_sound.Play();
 
-            if(cherries == 3)
-            {
-                score.text = "You win!";
-            }
+           
         }
     }
 }

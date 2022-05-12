@@ -61,8 +61,11 @@
     <Compile Include="Assets/Scripts/CameraController.cs" />
     <Compile Include="Assets/Scripts/PlayerMovement.cs" />
     <Compile Include="Assets/Scripts/ItemCollect.cs" />
-    <Compile Include="Assets/Scripts/death_logic.cs" />
     <Compile Include="Assets/Scripts/rotate.cs" />
+    <Compile Include="Assets/Scripts/death_logic.cs" />
+    <Compile Include="Assets/Scripts/BG_scroller.cs" />
+    <Compile Include="Assets/Scripts/Finish.cs" />
+    <Compile Include="Assets/Scripts/Start_menu.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
