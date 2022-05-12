@@ -66,6 +66,7 @@
     <Compile Include="Assets/Scripts/BG_scroller.cs" />
     <Compile Include="Assets/Scripts/Finish.cs" />
     <Compile Include="Assets/Scripts/Start_menu.cs" />
+    <Compile Include="Assets/Scripts/end_menu.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
