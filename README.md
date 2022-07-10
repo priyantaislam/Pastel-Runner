@@ -10,6 +10,7 @@ Some features implemented in the game:<br />
 -Animation<br />
 -Start and end screens<br />
 -Collision and groundchecking<br />
+-Multiple levels<br />
 
 
 Here are some screenshots:<br />
