@@ -1,16 +1,17 @@
 # Pastel-Runner
-A Mario inspired 2D platformer game made in Unity. <br />
+A Mario inspired 2D platformer game. <br />
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/31027335/168165082-5dce7fb2-c1cb-4bc7-9c9b-091913387fe5.png" width="700">
-</p>
 
 
 ## Overview
 
+This game was developed using Unity in C#. Assets were sourced from Unity Asset Store. The game design was inspired by classic Mario platformer games.
+Gameplay loop involves collecting objects as score, avoiding death traps and progressing through levels.
 
 
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/31027335/168165082-5dce7fb2-c1cb-4bc7-9c9b-091913387fe5.png" width="700">
+</p>
 
 ## Features:<br />
 
