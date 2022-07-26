@@ -14,7 +14,7 @@ Some features implemented in the game:<br />
 
 
 Here are some screenshots:<br />
-<img src="https://user-images.githubusercontent.com/31027335/168165082-5dce7fb2-c1cb-4bc7-9c9b-091913387fe5.png" width="48">
+<img src="https://user-images.githubusercontent.com/31027335/168165082-5dce7fb2-c1cb-4bc7-9c9b-091913387fe5.png" width="500">
 ![Screen Shot 2022-05-13 at 6 42 40 am](https://user-images.githubusercontent.com/31027335/168165082-5dce7fb2-c1cb-4bc7-9c9b-091913387fe5.png)<br />
 ![Screen Shot 2022-05-13 at 6 43 02 am](https://user-images.githubusercontent.com/31027335/168165102-6410c8cd-a9f1-485f-8572-e9aefabd1717.png)<br />
 ![Screen Shot 2022-05-13 at 6 43 28 am](https://user-images.githubusercontent.com/31027335/168165113-03aa7ba1-0337-4e36-9968-c5312e65568d.png)<br />
