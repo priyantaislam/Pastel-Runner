@@ -2,12 +2,12 @@
 A Mario inspired 2D platformer game made in Unity. <br />
 
 ## Overview
-- - -
 
 
 
-### Features:<br />
-- - -
+
+## Features:<br />
+
 -Player movement<br />
 -Collectibles and score system<br />
 -Traps and death logic<br />
